@@ -7,6 +7,12 @@
 -  I am ready to start working as a java developer.
 -  I strive to develop in the field of development and become a professional. I am interested in what I am doing now, and I want to continue exploring new areas.
 
+---
+#### Если захотите со мной связаться - нажмите на значок. 
+
+[<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/Gangster177)
+[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:monstars51@gmail.com)
+
   ### 💻 Technologies and tools I use in development:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp

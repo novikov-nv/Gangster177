@@ -1,6 +1,6 @@
 ## Hello! My name is **Nikita Novikov** 
 
--  Now i am **Java developer** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+-  Now i am a **Java developer** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 -  In December 2023, I graduated from **Netology** at the Java Developer course.  In parallel, I took **JavaRush** programming courses.
 -  I am committed to advancing my skills in the field of development and achieving professional status. I am interested in what I am doing now, and I would like to continue exploring new areas.
 
